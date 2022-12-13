@@ -14,6 +14,6 @@ The purpose of this case study is to apply the concepts associated with Frequent
 - [x] How to combine these concepts to calculate a confidence interval
 
 <p align="center">
-	<img src="https://miro.medium.com/max/1080/1*DduZ4juRGz9n_E8o-MbMWQ.png" alt="400" width="600"/>
+	<img src="https://miro.medium.com/max/1080/1*DduZ4juRGz9n_E8o-MbMWQ.png" alt="200" width="300"/>
 </p>
 
