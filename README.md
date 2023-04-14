@@ -13,7 +13,7 @@ The purpose of this repo is to apply the concepts associated with Frequentist In
 - [x] The concept of a sampling distribution of a test statistic, particularly for the mean
 - [x] How to combine these concepts to calculate a confidence interval
 
-The first notebook included in the repo (`frequestist-inference_exercises.ipynb`) includes basic esercises involving the points mentioned above and the second notebook (`frequestist-inference_exercises.ipynb`) will exemplify the same but with a mini case study using data from the [Sample Insurance Claim Prediction Dataset](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset) downloaded from [Kaggle](https://www.kaggle.com/).
+The first notebook included in the repository (`frequestist-inference_exercises.ipynb`) includes basic esercises involving the points mentioned above and the second notebook (`frequestist-inference_exercises.ipynb`) will exemplify the same but with a mini case study using data from the [Sample Insurance Claim Prediction Dataset](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset) downloaded from [Kaggle](https://www.kaggle.com/).
 
 <p align="center">
 	<img src="https://miro.medium.com/max/1080/1*DduZ4juRGz9n_E8o-MbMWQ.png" alt="300" width="400"/>
